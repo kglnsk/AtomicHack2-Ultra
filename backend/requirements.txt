@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+openai
+langchain
+faiss-cpu
+sentence-transformers
+pandas
+numpy
